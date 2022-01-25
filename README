@@ -1,0 +1,9 @@
+* Create a serevr connection to the user database - in 
+* create a server connection to the password database
+#
+# This code below is for logging to the log database
+
+with open(log_filename, 'a') as log_file:
+        date = str(datetime.datetime.now())
+        log_file.write('Admin Logged In @ ' + server_ip + ' time: ' + date)
+        log_file.write('\n')

@@ -1,0 +1,17 @@
+'Circles':
+    Area = pi * r * r
+    Diameter = 2r
+    Circumfrence = 2*pi*r
+'Slope':
+    y2 - y1 / x2 - x1
+'Right Triangle':
+    Area = (B * H) / 2
+    Height = sqrt((Hypotenuse **) - (base **))
+'Triangular Prisim':
+    Surface Area =  (bh + (a + b + c)H)
+    Volume = (1/2) * Base * Height * Length
+'Sphere':
+    Volume = (4/3) * PI * Radius ** 3
+    Surface Area = 4 * PI * Radius ** 2
+    Diameter = 2 * Radius
+    Radius = Diameter / 2

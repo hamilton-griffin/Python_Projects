@@ -1,0 +1,8 @@
+['Ryan', 20, datetime.datetime(2021, 11, 11, 12, 56, 48, 52702)]
+['Jacob', 18, datetime.datetime(2021, 11, 11, 13, 0, 17, 730457)]
+['Cameron', 23, datetime.datetime(2021, 11, 11, 13, 9, 23, 171621)]
+['Cason', 69, datetime.datetime(2021, 11, 12, 13, 50, 21, 779829)]
+['Jacob', 99, datetime.datetime(2021, 11, 19, 8, 59, 49, 182591)]
+['Jacob', 69, datetime.datetime(2021, 11, 23, 11, 46, 14, 996217)]
+['David', 44, datetime.datetime(2021, 11, 25, 12, 56, 9, 806275)]
+['Jacob', 19, datetime.datetime(2021, 12, 9, 9, 31, 10, 857785)]
